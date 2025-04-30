@@ -41,6 +41,13 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "cactus",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visitphoenix.com%2Fsonoran-desert%2Fsaguaro-cactus%2F&psig=AOvVaw1cQeXsoL_Jqi97_TYXR8A7&ust=1746101073240000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPD9oMPb_4wDFQAAAAAdAAAAABAE",
+      "price": 15,
+      "soldOut": false,
+      "id": 8
     }
   ]
 }
